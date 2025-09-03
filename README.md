@@ -46,53 +46,70 @@ My Tech & Skills
 </tr>
 </table>
 
-Featured Project
-<details>
-<summary><strong>📱 Pocket Dhammapada - Android Application</strong></summary>
+Of course\! Here is a more visually engaging version of your "Featured Project" and "Experience & Achievements" sections, using emojis and bullet points for better readability.
 
+-----
 
-Description: An Android mobile application developed using Flutter and Dart.
+### 🚀 Featured Project
 
+\<details\>
+\<summary\>\<strong\>📱 Pocket Dhammapada - Android Application\</strong\>\</summary\>
+\<br\>
+\<ul\>
+[cite\_start]\<li\>\<b\>📝 Description:\</b\> An Android mobile application built with a modern tech stack to provide users with accessible Buddhist teachings[cite: 56].\</li\>
+[cite\_start]\<li\>\<b\>🏆 Achievement:\</b\> Officially granted Intellectual Property Rights (HAKI) certification in 2025[cite: 54, 55, 56].\</li\>
+[cite\_start]\<li\>\<b\>💻 Technologies:\</b\> Developed using Flutter and Dart[cite: 56].\</li\>
+\</ul\>
+\</details\>
 
+-----
 
-Achievement: Received an official Intellectual Property Rights (HAKI) certification.
+### ✨ Experience & Achievements
 
+\<details\>
+\<summary\>\<strong\>🌐 Organizational & Leadership Experience\</strong\>\</summary\>
+\<br\>
+\<ul\>
+\<li\>
+\<strong\>🗣️ Media Communication Member\</strong\> | \<i\>Keluarga Mahasiswa Buddhist Palembang (KMBP)\</i\> | [cite\_start]2023 - Present [cite: 25]
+\</li\>
+\<br\>
+\<li\>
+\<strong\>👨‍🏫 Tutor\</strong\> | \<i\>Psalm Learning Center\</i\> | [cite\_start]2023 - 2025 [cite: 29, 30]
+\<ul\>
+[cite\_start]\<li\>Delivered curriculum-based learning materials to elementary students from grades 1 to 6[cite: 31].\</li\>
+[cite\_start]\<li\>Mentored and guided students in preparing for various academic and non-academic competitions[cite: 32].\</li\>
+\</ul\>
+\</li\>
+\<br\>
+\<li\>
+\<strong\>🎉 Head of Event Committee\</strong\> | \<i\>National Children's Day Celebration, SMB Samantabhadra\</i\> | [cite\_start]2022 [cite: 25, 26]
+\</li\>
+\<br\>
+\<li\>
+\<strong\>🤝 Public Relations Committee\</strong\> | \<i\>Dhammasanti Waisak 2024, PERMADHIS MDP\</i\> | [cite\_start]2024 [cite: 34]
+\<ul\>
+[cite\_start]\<li\>Successfully coordinated with the team to achieve a sponsorship target of 33 million IDR for the event[cite: 36].\</li\>
+\</ul\>
+\</li\>
+\</ul\>
+\</details\>
 
-Technologies: Flutter, Dart.
-
-</details>
-
-Experience & Achievements
-<details>
-<summary><strong>Organizational & Leadership Experience</strong></summary>
-
-Media Communication Member | Keluarga Mahasiswa Buddhist Palembang (KMBP) | 2023 - Present 
-
-Tutor | Psalm Learning Center | 2023 - 2025 
-
-Delivered curriculum-based learning to elementary students (grades 1-6).
-
-Coached students for academic and non-academic competitions.
-
-Head of Event Committee | National Children's Day Celebration | 2022 
-
-Public Relations Committee | Dhammasanti Waisak 2024 
-
-Successfully coordinated to help achieve a sponsorship target of 33 million IDR.
-
-</details>
-
-<details>
-<summary><strong>Certifications & Awards</strong></summary>
-
-🏆 3rd Place Winner | Dharma Quiz Competition | 2022 
-
-📜 TOEFL Certification | Score: 570 (Silver Level) | 2022 
-
-
-📜 HSK Level 2 Certification | Score: 135 | 2019 
-
-
-📜 HAKI (Intellectual Property) | Pocket Dhammapada App | 2025 
-
-</details>
+\<details\>
+\<summary\>\<strong\>🏆 Certifications & Awards\</strong\>\</summary\>
+\<br\>
+\<ul\>
+\<li\>
+\<strong\>🥇 3rd Place Winner\</strong\> | Dharma Quiz Competition at MUKERDA XV Sekber PMVBI South Sumatra | [cite\_start]2022 [cite: 45, 46, 47]
+\</li\>
+\<li\>
+\<strong\>📜 TOEFL Certification\</strong\> | Achieved a score of 570 (Silver Level) | [cite\_start]2022 [cite: 48, 50]
+\</li\>
+\<li\>
+\<strong\>📜 HSK Level 2 Certification\</strong\> | Achieved a score of 135 | [cite\_start]2019 [cite: 51, 52, 53]
+\</li\>
+\<li\>
+\<strong\>⚖️ HAKI (Intellectual Property)\</strong\> | Granted for the "Pocket Dhammapada" Android Application | [cite\_start]2025 [cite: 54, 55, 56]
+\</li\>
+\</ul\>
+\</details\>
