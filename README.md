@@ -50,15 +50,21 @@ Of course\! Here is a more visually engaging version of your "Featured Project" 
 
 -----
 
+Of course. The issue is that the code contains non-standard citation tags like `[cite_start:...]` which I added. GitHub's renderer doesn't understand these tags, so it displays them as plain text instead of formatting the document correctly.
+
+Here is the corrected code with all the extra tags removed. Just copy and paste this into your `README.md` file, and it will display properly.
+
+-----
+
 ### 🚀 Featured Project
 
 \<details\>
 \<summary\>\<strong\>📱 Pocket Dhammapada - Android Application\</strong\>\</summary\>
 \<br\>
 \<ul\>
-[cite\_start]\<li\>\<b\>📝 Description:\</b\> An Android mobile application built with a modern tech stack to provide users with accessible Buddhist teachings[cite: 56].\</li\>
-[cite\_start]\<li\>\<b\>🏆 Achievement:\</b\> Officially granted Intellectual Property Rights (HAKI) certification in 2025[cite: 54, 55, 56].\</li\>
-[cite\_start]\<li\>\<b\>💻 Technologies:\</b\> Developed using Flutter and Dart[cite: 56].\</li\>
+\<li\>\<b\>📝 Description:\</b\> An Android mobile application built with a modern tech stack to provide users with accessible Buddhist teachings.\</li\>
+\<li\>\<b\>🏆 Achievement:\</b\> Officially granted Intellectual Property Rights (HAKI) certification in 2025.\</li\>
+\<li\>\<b\>💻 Technologies:\</b\> Developed using Flutter and Dart.\</li\>
 \</ul\>
 \</details\>
 
@@ -71,25 +77,25 @@ Of course\! Here is a more visually engaging version of your "Featured Project" 
 \<br\>
 \<ul\>
 \<li\>
-\<strong\>🗣️ Media Communication Member\</strong\> | \<i\>Keluarga Mahasiswa Buddhist Palembang (KMBP)\</i\> | [cite\_start]2023 - Present [cite: 25]
+\<strong\>🗣️ Media Communication Member\</strong\> | \<i\>Keluarga Mahasiswa Buddhist Palembang (KMBP)\</i\> | 2023 - Present
 \</li\>
 \<br\>
 \<li\>
-\<strong\>👨‍🏫 Tutor\</strong\> | \<i\>Psalm Learning Center\</i\> | [cite\_start]2023 - 2025 [cite: 29, 30]
+\<strong\>👨‍🏫 Tutor\</strong\> | \<i\>Psalm Learning Center\</i\> | 2023 - 2025
 \<ul\>
-[cite\_start]\<li\>Delivered curriculum-based learning materials to elementary students from grades 1 to 6[cite: 31].\</li\>
-[cite\_start]\<li\>Mentored and guided students in preparing for various academic and non-academic competitions[cite: 32].\</li\>
+\<li\>Delivered curriculum-based learning materials to elementary students from grades 1 to 6.\</li\>
+\<li\>Mentored and guided students in preparing for various academic and non-academic competitions.\</li\>
 \</ul\>
 \</li\>
 \<br\>
 \<li\>
-\<strong\>🎉 Head of Event Committee\</strong\> | \<i\>National Children's Day Celebration, SMB Samantabhadra\</i\> | [cite\_start]2022 [cite: 25, 26]
+\<strong\>🎉 Head of Event Committee\</strong\> | \<i\>National Children's Day Celebration, SMB Samantabhadra\</i\> | 2022
 \</li\>
 \<br\>
 \<li\>
-\<strong\>🤝 Public Relations Committee\</strong\> | \<i\>Dhammasanti Waisak 2024, PERMADHIS MDP\</i\> | [cite\_start]2024 [cite: 34]
+\<strong\>🤝 Public Relations Committee\</strong\> | \<i\>Dhammasanti Waisak 2024, PERMADHIS MDP\</i\> | 2024
 \<ul\>
-[cite\_start]\<li\>Successfully coordinated with the team to achieve a sponsorship target of 33 million IDR for the event[cite: 36].\</li\>
+\<li\>Successfully coordinated with the team to achieve a sponsorship target of 33 million IDR for the event.\</li\>
 \</ul\>
 \</li\>
 \</ul\>
@@ -100,16 +106,16 @@ Of course\! Here is a more visually engaging version of your "Featured Project" 
 \<br\>
 \<ul\>
 \<li\>
-\<strong\>🥇 3rd Place Winner\</strong\> | Dharma Quiz Competition at MUKERDA XV Sekber PMVBI South Sumatra | [cite\_start]2022 [cite: 45, 46, 47]
+\<strong\>🥇 3rd Place Winner\</strong\> | Dharma Quiz Competition at MUKERDA XV Sekber PMVBI South Sumatra | 2022
 \</li\>
 \<li\>
-\<strong\>📜 TOEFL Certification\</strong\> | Achieved a score of 570 (Silver Level) | [cite\_start]2022 [cite: 48, 50]
+\<strong\>📜 TOEFL Certification\</strong\> | Achieved a score of 570 (Silver Level) | 2022
 \</li\>
 \<li\>
-\<strong\>📜 HSK Level 2 Certification\</strong\> | Achieved a score of 135 | [cite\_start]2019 [cite: 51, 52, 53]
+\<strong\>📜 HSK Level 2 Certification\</strong\> | Achieved a score of 135 | 2019
 \</li\>
 \<li\>
-\<strong\>⚖️ HAKI (Intellectual Property)\</strong\> | Granted for the "Pocket Dhammapada" Android Application | [cite\_start]2025 [cite: 54, 55, 56]
+\<strong\>⚖️ HAKI (Intellectual Property)\</strong\> | Granted for the "Pocket Dhammapada" Android Application | 2025
 \</li\>
 \</ul\>
 \</details\>
