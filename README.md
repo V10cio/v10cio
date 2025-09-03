@@ -1,14 +1,8 @@
-Hi there, I'm Valencio Arjun 👋
-I'm a dedicated and open-minded Informatics student with a passion for continuous growth and learning. I am disciplined in my pursuit of excellence and thrive in collaborative environments where I can contribute effectively towards collective goals while valuing diverse perspectives.
+**Hi there, I'm Valencio Arjun 👋**
+**I'm a dedicated and open-minded Informatics student with a passion for continuous growth and learning. I am disciplined in my pursuit of excellence and thrive in collaborative environments where I can contribute effectively towards collective goals while valuing diverse perspectives.**
 
-
-📧 
-
-Contact Me: valencioarjun100206@gmail.com 
-
-📍 
-
-Based in: Palembang, Indonesia 
+📧 Contact Me: valencioarjun100206@gmail.com 
+📍 Based in: Palembang, Indonesia 
 
 My Tech & Skills
 <table>
@@ -19,6 +13,12 @@ My Tech & Skills
 <p>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 </div>
 <div align="center">
@@ -39,8 +39,8 @@ My Tech & Skills
 <td valign="top" width="50%">
 <div align="center">
 <h4><strong>GitHub Stats</strong></h4>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Your Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v10cio&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=v10cio&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Your Top Languages" /></p>
 </div>
 </td>
 </tr>
